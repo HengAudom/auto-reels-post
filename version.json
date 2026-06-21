@@ -1,5 +1,5 @@
 {
-  "version": "2.4",
-  "download_url": "https://github.com/HengAudom/auto-reels-post/releases/download/auto-reels-post-v2.4/AutoReelsPost.exe",
+  "version": "2.5",
+  "download_url": "https://github.com/HengAudom/auto-reels-post/releases/download/auto-reels-post-v2.5/AutoReelsPost.exe",
   "notes": "- កែ Bug មិនព្រមប្តូរ Page (ជួសជុលកំហុសកូដ Switch Page)\n- កែ Bug Caption មិនបង្ហាញ (ប្តូរមកប្រើវិធីវាយអក្សរផ្ទាល់ ដើម្បីស្គាល់ Emoji និងអក្សរខ្មែរ)\n- បន្ថែមប្រព័ន្ធចុច Next និងផ្ទៀងផ្ទាត់ការប្តូរទំព័រ (ការពារកុំឱ្យគាំង)\n"
 }
